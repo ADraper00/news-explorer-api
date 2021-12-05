@@ -1,2 +1,2 @@
 # news-explorer-api
-Final Project
+API for final project "News Explorer" for Practicum's Web Developer program.
